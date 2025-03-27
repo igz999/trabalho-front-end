@@ -1,0 +1,25 @@
+ table {
+      width: 100%;
+      border-collapse: collapse; /* Remove espaços entre as bordas */
+      }
+    th,td {
+      border: 2px solid black; /* Adiciona bordas às células */
+      padding: 8px;
+      text-align: center;
+    }
+    th {
+      background-color: white; /* Cor de fundo para o cabeçalho */
+
+    }
+     body{
+        background-color: #dc6ce4;
+     }
+ body, html{
+   margin: 0;
+   padding: 0;
+p {
+  color: pink;
+  font-family: comic sans ms;
+  font-size: 20px;
+  text-align: center;
+}
